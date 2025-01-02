@@ -1,0 +1,3 @@
+This example demonstrates a potential issue in Perl related to indirect variable referencing. The script shows how modifying a variable indirectly through a reference can lead to unexpected behavior and how to fix it.
+
+The 'bug.pl' file contains the problematic code, while 'bugSolution.pl' provides a corrected version. The solution focuses on clarity and avoiding the use of indirect references when direct modification is sufficient.
